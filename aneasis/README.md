@@ -5,7 +5,7 @@
 
 Uses the default Django development server.
 
-1. Git clone then cd to document-management-system/aneasis/app 
+1. Git clone then cd to `document-management-system/aneasis/app` 
 1. Build the images and run the containers:
 
     ```sh
