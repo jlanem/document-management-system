@@ -1,4 +1,4 @@
-# Dockerizing Django with Postgres, Gunicorn, and Nginx
+# Dockerizing DMS using Django with Postgres, Gunicorn, and Nginx
 
 ## Want to learn how to build this?
 
