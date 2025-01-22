@@ -5,8 +5,7 @@
 
 Uses the default Django development server.
 
-1. Rename *.env.dev-sample* to *.env.dev*.
-1. Update the environment variables in the *docker-compose.yml* and *.env.dev* files.
+1. Git clone then cd to document-management-system/aneasis/app 
 1. Build the images and run the containers:
 
     ```sh
