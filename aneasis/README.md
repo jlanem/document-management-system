@@ -1,4 +1,4 @@
-# Dockerizing DMS using Django with Postgres, Gunicorn, and Nginx
+# Document Management System
 
 
 ### Development
